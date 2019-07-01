@@ -44,14 +44,14 @@
 
 LIRI will use the text from “random.txt” and call on of LIRI’s commands. It should run Spotify-this-song for “I want it That way”.
 
-##Technologies Used:
+## Technologies Used:
 
-*Spotify API 
-*Bands In Town API
-*OMDB API
-*Node.js
-*Javascript
-*NPM packages
+* Spotify API 
+* Bands In Town API
+* OMDB API
+* Node.js
+* Javascript
+* NPM packages
 
 
 
