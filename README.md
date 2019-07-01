@@ -1,14 +1,15 @@
 # LIRI
- #LIRI
+ ------------------------------------------------------------------------
  
  LIRI is a Language Interpretation and Recognition Interface which will search Spotify for songs, Bands in Town for concerts and OMDB for movies using the parameters listed below.
   
- *concert-this
- *Spotify-this
- *movie-this
- *do-what-it-says
+ 1.concert-this
+ 2.Spotify-this
+ 3.movie-this
+ 4.do-what-it-says
 
 ## Command Line Functions
+-------------------------------------------------------------------------
 
 ### Concert-This
 
